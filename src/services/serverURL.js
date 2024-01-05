@@ -1,1 +1,1 @@
-export const serverURL ="http://localhost:5100"
+export const serverURL ="https://viedo-player-b.onrender.com"
